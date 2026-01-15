@@ -3,61 +3,42 @@
 **Author**: Braedan McCluskey (bmcc@umn.edu)  
 **Last Updated**: 2026-01-15
 
-This repository serves as a public record of bioinformatics projects I've worked on at the University of Minnesota, organized by Principal Investigator (PI). Each project includes links to the corresponding GitHub repositories (which may be private but accessible with appropriate permissions).
+This repository is a record (in the works!) of the bioinformatics projects I've worked on at the University of Minnesota. Each project should include links to the corresponding GitHub repositories (private but accessible with appropriate permissions). All projects created prior to October 2025 were migrated from github.umn.edu, so their activity and commit history are not reflected in this GitHub account.
+
+### Personal Repositories
+
+- **[bmcc_wgs](#bmcc_wgs)**  
+  *Tools for working with whole genome sequencing data.*  
+  Repository: [https://github.com/umn-msi-lmnp/bmcc_wgs](https://github.com/umn-msi-lmnp/bmcc_wgs)  
+
+- **[bmcc_agents](#bmcc_agents)**  
+  *Scripts, tools, and workflows for working with AI agents.*  
+  Repository: [https://github.com/umn-msi-lmnp/bmcc_agents](https://github.com/umn-msi-lmnp/bmcc_agents)  
 
 ---
 
 ## Projects by Principal Investigator
 
-### [dehms](#dehms-projects)
+### [Scott Dehm](#dehms-projects)
 
-*Projects with PI: dehms*
+- **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](#)**  
+  *WGS-related analysis workflows (102, 104, 105).*
 
-- **[TROP2 Project](#)**  
-  *TROP2-related analysis workflows (102, 104, 105)*  
-  Repository: `[Link placeholder - paste GitHub URL here]`  
-  Project Location: `/projects/standard/dehms/`
-
----
-
-### [farrarm](#farrarm-projects)
-
-*Projects with PI: farrarm*
-
-- **[Farrar Parse scRNA-seq Project](#)**  
-  *Parse Biosciences single-cell RNA sequencing analysis*  
-  Repository: `[Link placeholder - paste GitHub URL here]`  
-  Note: Inherited project structure from `/home/farrarm/shared/riss/oconnorc/Farrar_Parse_scRNAseq_202507/`
+- **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](#)**  
+    __Publicaiton link:__
 
 ---
 
-### [hogquist](#hogquist-projects)
+### [Mike Farrar](#farrarm-projects)
 
-*Projects with PI: Kristin Hogquist*
-
-- **[Hogquist Thymic B Cell Parse scRNA-seq Analysis](#)**  
-  *Single-cell RNA sequencing analysis of thymic B cells using Parse Biosciences Evercode WT technology. Analysis of 15 samples from 6 genotype groups (4 KO strains + 2 WT controls) to study pathways supporting Treg development.*  
-  Repository: [https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201](https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201)  
-  Project Location: `/projects/standard/hogquist/shared/riss/bmcc_ParseScRNAseq_20251201`
+- **[Farrar 10x Single-Cell Multiomics Project with Lynn Heltemes Harris: Ep300 and Crebbp knockout in B cells](#)**  
+  *Single-cell RNA sequencing analysis of Ep300 and Crebbp knockout in B cells.*
 
 ---
 
-### [jczyzyk](#jczyzyk-projects)
+### [Kaylee Schwertfeger](#schwertf-projects)
 
-*Projects with PI: jczyzyk*
-
-- **[NODMice scRNA-seq Analysis](#)**  
-  *Single-cell RNA sequencing analysis of NOD mice pancreatic tissue, focusing on beta cells, ductal cells, and Notch signaling pathways.*  
-  Repository: `[Link placeholder - paste GitHub URL here]`  
-  Project Location: `/projects/standard/jczyzyk/shared/disaster_recovery/bmcc/NODMice_250301`
-
----
-
-### [schwertf](#schwertf-projects)
-
-*Projects with PI: schwertf*
-
-- **[FGFR1 ATAC-seq Analysis](#)**  
+- **[FGFR1 ATAC-seq Analysis with Kaylee Schwertfeger: FGFR1 ATAC-seq Analysis](#)**  
   *ATAC-seq analysis project*  
   Repository: [https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)  
   Project Location: `/projects/standard/schwertf/shared/ris/schwertf_bmcc_FGFR1_ATAC`  
@@ -65,43 +46,32 @@ This repository serves as a public record of bioinformatics projects I've worked
 
 ---
 
-## Other Projects
+### [Jan Czyzyk](#jczyzyk-projects)
 
-### Infrastructure & Tools
-
-- **[bmcc_wgs](#)**  
-  *Whole genome sequencing pipeline*  
-  Repository: `[Link placeholder - paste GitHub URL here]`  
-  Project Location: `/projects/standard/mdl/shared/bmcc/software/bmcc_wgs`  
-  Migration Date: 2025-10-29 (remote URL updated; repository must be created on github.com)
-
-- **[clia_wgs](#)**  
-  *CLIA-compliant whole genome sequencing pipeline*  
-  Repository: `[Link placeholder - paste GitHub URL here]`  
-  Project Location: `/projects/standard/mdl/shared/bmcc/software/clia_wgs`
+- **[NODMice scRNA-seq Analysis with Jan Czyzyk: NOD mice pancreatic islet scRNAseq](#)**  
+  *Single-cell RNA sequencing analysis of NOD mice pancreatic islet tissue, focusing on beta cells, ductal cells, and Notch signaling pathways.*  
 
 ---
 
-## Repository Organization
+## Molecular Diagnostics Lab Projects
 
-Repositories are hosted in the following locations:
-
-- **umn-msi-lmnp organization**: Repositories that were part of the `lmnp` org, migrated from github.umn.edu to github.com (starting October 2025)
-- **braedanmc account**: Personal `bmcc_*` repositories (to be migrated from `bmcc` GitHub account)
+- **[CLIA-compliant whole genome sequencing pipeline](#)**  
+  *CLIA-compliant whole genome sequencing pipeline.*  
+  Repository: [https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)  
+  Project Location: `/projects/standard/mdl/shared/bmcc/software/clia_wgs`  
+  Migration Date: 2025-10-29 (remote URL updated; repository must be created on github.com)
 
 ---
 
 ## Notes
 
-- **Private Repositories**: Many repositories are private but accessible with appropriate GitHub permissions
-- **Migration Status**: Some repositories may still be in the process of migration from github.umn.edu to github.com
-- **Placeholders**: Projects marked with `[Link placeholder]` need GitHub repository URLs to be added
+- **Private Repositories**: Most repositories are private but accessible with appropriate GitHub permissions
 
 ---
 
 ## Contact
 
 For questions about any of these projects, please contact:
+
 - **Braedan McCluskey**: bmcc@umn.edu
 - **RI Bioinformatics Manager**: Todd Knutson (knut0297@umn.edu)
-

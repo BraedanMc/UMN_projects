@@ -19,7 +19,10 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ### [Kristin Hogquist and Ryan Martinez](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/hogquist/shared/riss/)
 
-- **[Parse scRNA-seq with Ryan Martinez: Effects of multiple conditional gene KO models on B cell maturation](https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201)
+- **[Parse scRNA-seq with Ryan Martinez: Effects of multiple conditional gene KO models on B cell maturation](https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201)**
+  *B cell subtyping using CellTypist and parallel custom AI-integrated annotations; Differential abundance of cell subtypes across treatments; Differential Gene Expression between cell types and treatments.
+
+---
 
 ### [Scott Dehm](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/dehms/shared/ris/)
 

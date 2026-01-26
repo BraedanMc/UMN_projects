@@ -9,23 +9,26 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 - **[bmcc_wgs](#bmcc_wgs)**  
   *Tools for working with whole genome sequencing data.*  
-  Repository: [https://github.com/umn-msi-lmnp/bmcc_wgs](https://github.com/umn-msi-lmnp/bmcc_wgs)  
-
+  
 - **[bmcc_agents](#bmcc_agents)**  
   *Scripts, tools, and workflows for working with AI agents.*  
-  Repository: [https://github.com/umn-msi-lmnp/bmcc_agents](https://github.com/umn-msi-lmnp/bmcc_agents)  
-
+  
 ---
 
 ## Projects by Principal Investigator
 
-### [Scott Dehm](#dehms-projects)
+### [Kristin Hogquist and Ryan Martinez](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/hogquist/shared/riss/)
+
+- **[Parse scRNA-seq with Ryan Martinez: Effects of multiple conditional gene KO models on B cell maturation](https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201)
+
+### [Scott Dehm](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/dehms/shared/ris/)
 
 - **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *WGS-related analysis workflows (102, 104, 105).*
 
 - **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
-    __Publicaiton link:__
+  *Bespoke analysis of RNA-seq and PAC-seq to quantify alternative polyadenylation across prostate cancer cell lines. Subsequent targetted analyses focused on genes with alternative polyadenylation site usage across multiple cell lines.*
+    __Publication link:__
 
 ---
 

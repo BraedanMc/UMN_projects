@@ -21,17 +21,17 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ### [Scott Dehm](#dehms-projects)
 
-- **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](#)**  
+- **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *WGS-related analysis workflows (102, 104, 105).*
 
-- **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](#)**  
+- **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
     __Publicaiton link:__
 
 ---
 
 ### [Mike Farrar](#farrarm-projects)
 
-- **[Farrar 10x Single-Cell Multiomics Project with Lynn Heltemes Harris: Ep300 and Crebbp knockout in B cells](#)**  
+- **[Farrar 10x Single-Cell Multiomics Project with Lynn Heltemes Harris: Ep300 and Crebbp knockout in B cells](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *Single-cell RNA sequencing analysis of Ep300 and Crebbp knockout in B cells.*
 
 ---
@@ -48,14 +48,22 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ### [Jan Czyzyk](#jczyzyk-projects)
 
-- **[NODMice scRNA-seq Analysis with Jan Czyzyk: NOD mice pancreatic islet scRNAseq](#)**  
+- **[NODMice scRNA-seq Analysis with Jan Czyzyk: NOD mice pancreatic islet scRNAseq](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *Single-cell RNA sequencing analysis of NOD mice pancreatic islet tissue, focusing on beta cells, ductal cells, and Notch signaling pathways.*  
 
 ---
 
+### [Pennell](#pennell-projects)
+
+- **[Bulk RNAseq with Chris Pennell: CAR-T cells impact on the brain](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
+  *Bulk RNA sequencing analysis of murine brain with CAR-T treatment and control*  
+
+---
+
+
 ## Molecular Diagnostics Lab Projects
 
-- **[CLIA-compliant whole genome sequencing pipeline](#)**  
+- **[CLIA-compliant whole genome sequencing pipeline](https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)**  
   *CLIA-compliant whole genome sequencing pipeline.*  
   Repository: [https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)  
   Project Location: `/projects/standard/mdl/shared/bmcc/software/clia_wgs`  

@@ -26,17 +26,6 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ---
 
-### [Scott Dehm](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/dehms/shared/ris/)
-
-- **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
-  *WGS-related analysis workflows (102, 104, 105).*
-
-- **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](https://github.com/umn-msi-lmnp/dehms_bmcc_Dehm-Kiel-CPSF1)**  
-  *Bespoke analysis of RNA-seq and PAC-seq to quantify alternative polyadenylation across prostate cancer cell lines. Subsequent targetted analyses focused on genes with alternative polyadenylation site usage across multiple cell lines.*
-    __Publication link:__
-
----
-
 ### [Mike Farrar](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/farrarm/shared/)
 
 - **[Farrar 10x Single-Cell Multiomics Project with Lynn Heltemes Harris: Ep300 and Crebbp knockout in B cells](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
@@ -53,6 +42,16 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ---
 
+### [Scott Dehm](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/dehms/shared/ris/)
+
+- **[TROP2 Project with Jacqueline Lyman: Prostate Cancer Genome Evolution in response to chemotherapy with TROP2 targeting](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
+  *WGS-related analysis workflows (102, 104, 105).*
+
+- **[CPSF1 Project with Kiel Tietz: Alternative Polyadenylation in across Prostate Cancer cell lines](https://github.com/umn-msi-lmnp/dehms_bmcc_Dehm-Kiel-CPSF1)**  
+  *Bespoke analysis of RNA-seq and PAC-seq to quantify alternative polyadenylation across prostate cancer cell lines. Subsequent targetted analyses focused on genes with alternative polyadenylation site usage across multiple cell lines.*
+    __Publication link:__
+
+---
 ### [Jan Czyzyk](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs//projects/standard/jczyzyk/shared/disaster_recovery/bmcc)
 
 - **[NODMice scRNA-seq Analysis with Jan Czyzyk: NOD mice pancreatic islet scRNAseq](https://github.com/umn-msi-lmnp/jczyzyk_bmcc_NODMice_250301)**  

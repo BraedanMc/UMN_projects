@@ -35,14 +35,14 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ---
 
-### [Mike Farrar](#farrarm-projects)
+### [Mike Farrar](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/farrarm/shared/)
 
 - **[Farrar 10x Single-Cell Multiomics Project with Lynn Heltemes Harris: Ep300 and Crebbp knockout in B cells](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *Single-cell RNA sequencing analysis of Ep300 and Crebbp knockout in B cells.*
 
 ---
 
-### [Kaylee Schwertfeger](#schwertf-projects)
+### [Kaylee Schwertfeger](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/schwertf/shared/)
 
 - **[FGFR1 ATAC-seq Analysis with Kaylee Schwertfeger: FGFR1 ATAC-seq Analysis](#)**  
   *ATAC-seq analysis project*  
@@ -52,14 +52,14 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ---
 
-### [Jan Czyzyk](#jczyzyk-projects)
+### [Jan Czyzyk](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs//projects/standard/jczyzyk/shared/disaster_recovery/bmcc)
 
 - **[NODMice scRNA-seq Analysis with Jan Czyzyk: NOD mice pancreatic islet scRNAseq](https://github.com/umn-msi-lmnp/jczyzyk_bmcc_NODMice_250301)**  
   *Single-cell RNA sequencing analysis of NOD mice pancreatic islet tissue, focusing on beta cells, ductal cells, and Notch signaling pathways.*  
 
 ---
 
-### [Pennell](#pennell-projects)
+### [Pennell](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/mcvetano/shared/ris)
 
 - **[Bulk RNAseq with Chris Pennell: CAR-T cells impact on the brain](https://github.com/umn-msi-lmnp/pennell_bmcc_BulkRNA-seq_BrainsWithCAR-TvsCD19)**  
   *Bulk RNA sequencing analysis of murine brain with CAR-T treatment and control*  

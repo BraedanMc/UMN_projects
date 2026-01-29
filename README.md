@@ -44,10 +44,9 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ### [Kaylee Schwertfeger](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/schwertf/shared/)
 
-- **[FGFR1 ATAC-seq Analysis with Kaylee Schwertfeger: FGFR1 ATAC-seq Analysis](#)**  
+- **[FGFR1 ATAC-seq Analysis with Kaylee Schwertfeger: FGFR1 ATAC-seq Analysis](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)**  
   *ATAC-seq analysis project*  
-  Repository: [https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC](https://github.com/umn-msi-lmnp/schwertf_bmcc_FGFR1_ATAC)  
-  Project Location: `/projects/standard/schwertf/shared/ris/schwertf_bmcc_FGFR1_ATAC`  
+  (Analysis Output)[https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/schwertf/shared/ris/schwertf_bmcc_FGFR1_ATAC]
   Migration Date: 2024-10-27
 
 ---

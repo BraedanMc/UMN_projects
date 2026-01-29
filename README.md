@@ -72,9 +72,9 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 - **[CLIA-compliant whole genome sequencing pipeline](https://github.com/umn-msi-lmnp/clia_wgs)**  
   *CLIA-compliant whole genome sequencing pipeline.*  
-  Repository: [https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)  
-  Project Location: `/projects/standard/mdl/shared/bmcc/software/clia_wgs`  
-  Migration Date: 2025-10-29 (remote URL updated; repository must be created on github.com)
+
+- **[CLIA-compliant hybrid capture sequencing pipeline](https://github.com/umn-msi-lmnp/clia_wgs)**  
+  *CLIA-compliant whole genome sequencing pipeline.*  
 
 ---
 

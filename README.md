@@ -69,7 +69,7 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 ## Molecular Diagnostics Lab Projects
 
-- **[CLIA-compliant whole genome sequencing pipeline](https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)**  
+- **[CLIA-compliant whole genome sequencing pipeline](https://github.com/umn-msi-lmnp/clia_wgs)**  
   *CLIA-compliant whole genome sequencing pipeline.*  
   Repository: [https://github.com/umn-msi-lmnp/clia_wgs](https://github.com/umn-msi-lmnp/clia_wgs)  
   Project Location: `/projects/standard/mdl/shared/bmcc/software/clia_wgs`  

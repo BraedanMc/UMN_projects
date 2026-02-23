@@ -19,6 +19,13 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 
 - **Access is restricted based on GitHub permissions (for repos) and group membership (output on Agate).**
 
+### [Betsy Hirsch](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/hirsc003/shared/)
+
+- **[CAR-T Cell-Induced Oncogenesis: Timeline, clonal expansion, and oncogenic driver mutations in CAR-T cells](https://github.com/umn-msi-lmnp/__________________________________)**
+  *Nextflow-based genomic analysis on HIPCO-compliant BPIC system (PHI data). Vector integration sites identification, clonal dynamics, driver mutation identification.
+
+---
+
 ### [Kris Hogquist and Ryan Martinez](https://ondemand.msi.umn.edu/pun/sys/dashboard/files/fs/projects/standard/hogquist/shared/riss/)
 
 - **[Parse scRNA-seq with Ryan Martinez: Effects of multiple conditional gene KO models on B cell maturation](https://github.com/umn-msi-lmnp/hogquist_bmcc_ParseScRNAseq_20251201)**

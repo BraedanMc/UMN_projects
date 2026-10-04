@@ -109,6 +109,9 @@ This repository is a record (in the works!) of the bioinformatics projects I've 
 - **[CLIA pharmacogenomics pipeline](https://github.com/umn-msi-mdl/clia_pgx)**  
   *Clinical pharmacogenomics pipeline that calls star alleles.*  
 
+- **[CLIA copy-number variation pipeline](https://github.com/umn-msi-mdl/clia_cnv)**  
+  *CLIA-compliant copy-number variation (CNV) detection pipeline for clinical diagnostics; capable of running in AWS.*  
+
 - **[MSIsensor2 capture-panel marker review](https://github.com/BraedanMc/msisensor2)**  
   *Site, coverage, and bait-region comparisons for microsatellite-instability markers.*  
 
